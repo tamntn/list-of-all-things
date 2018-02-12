@@ -3,11 +3,8 @@
 <div align="center">
    <h3>Legend</h3>
    <p>😎 - <a href="https://github.com/sindresorhus/awesome">Awesome List</a> has an item regarding this topic</p>
-   <br>
    <p>🔥 - My personal favorite</p>
-   <br>
    <p>𝐌 - Medium article</p>
-   <br>
    
    <h3>Topics</h3>
    <a href="#general-list">General List</a>
