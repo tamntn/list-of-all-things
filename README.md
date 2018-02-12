@@ -1,19 +1,23 @@
 <h1 align="center">My List of All Things</h1>
 
 <div align="center">
-<h3>Legend</h3>
-* 😎 - [Awesome List](https://github.com/sindresorhus/awesome) has an item regarding this topic
-* 🔥 - My personal favorite
-* 𝐌 - Medium article
-<h3>Topics</h3>
-<a href="#general-list">General List</a>
-<br>
-<a href="#cheatsheet">Cheatsheet</a>
-<br>
-<a href="#technical-interview">Technical Interview</a>
-<br>
-<a href="#resume">Resume</a>
-<br>
+   <h3>Legend</h3>
+   <p>😎 - <a href="https://github.com/sindresorhus/awesome">Awesome List</a> has an item regarding this topic</p
+   <br>
+   <p>🔥 - My personal favorite</p>
+   <br>
+   <p>𝐌 - Medium article</p>
+   <br>
+   
+   <h3>Topics</h3>
+   <a href="#general-list">General List</a>
+   <br>
+   <a href="#cheatsheet">Cheatsheet</a>
+   <br>
+   <a href="#technical-interview">Technical Interview</a>
+   <br>
+   <a href="#resume">Resume</a>
+   <br>
 </div>
 
 ## General List
