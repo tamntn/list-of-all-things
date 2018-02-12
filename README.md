@@ -33,3 +33,6 @@
 
 ## Resume
 * [Awesome CV](https://github.com/posquit0/Awesome-CV) - *LaTeX template for your outstanding job application* 📄
+
+## Design 😎
+* [Awesome Web Design](https://github.com/nicolesaidy/awesome-web-design) - *A curated list of awesome resources for digital designers* 🎨
