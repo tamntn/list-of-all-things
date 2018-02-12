@@ -1,15 +1,26 @@
-# My List of All Things
+<h1 align="center">My List of All Things</h1>
 
-## Legend
-* 😎 - [Awesome List](https://github.com/sindresorhus/awesome) has a list regarding this topic
+<div align="center">
+<h3>Legend</h3>
+* 😎 - [Awesome List](https://github.com/sindresorhus/awesome) has an item regarding this topic
 * 🔥 - My personal favorite
 * 𝐌 - Medium article
+<h3>Topics</h3>
+<a href="#general-list">General List</a>
+<br>
+<a href="#cheatsheet">Cheatsheet</a>
+<br>
+<a href="#technical-interview">Technical Interview</a>
+<br>
+<a href="#resume">Resume</a>
+<br>
+</div>
 
 ## General List
 * [Awesome List](https://github.com/sindresorhus/awesome) - *A curated list of awesome lists* 😎
 * [Checklist](https://github.com/huyingjie/Checklist-Checklist) - *A curated list of checklists* ✓
 
-## Cheatsheets
+## Cheatsheet
 * [Azat Mardan's](https://github.com/azat-co/cheatsheets) - *Cheatsheets for ES6, Express, MongoDB/Mongoose, Node & React by Azat Mardan, founder of node.university. He has more materials regarding the learning of NodeJS such as [You don't know Node](https://github.com/azat-co/you-dont-know-node), [Practical NodeJS](https://github.com/azat-co/practicalnode) and [Node Frameworks](http://nodeframework.com)*
     * [ES6 1](cheatsheet/es6-1-azat.png) + [ES6 2](cheatsheet/es6-1-azat.png)
     * [Express](cheatsheet/express-azat.pdf)
