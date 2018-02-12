@@ -1,13 +1,6 @@
 <h1 align="center">My List of All Things</h1>
 
 <div align="center">
-   <h3>Legend</h3>
-   😎 - <a href="https://github.com/sindresorhus/awesome">Awesome List</a> has an item regarding this topic
-   <br>
-   🔥 - My personal favorite
-   <br>
-   𝐌 - Medium article
-   
    <h3>Topics</h3>
    <a href="#general-list">General List</a>
    <br>
@@ -18,6 +11,11 @@
    <a href="#resume">Resume</a>
    <br>
 </div>
+
+## Legend
+* 😎 - [Awesome List](https://github.com/sindresorhus/awesome) has an item regarding this topic
+* 🔥 - Personal favorite
+* 𝐌 - Medium article
 
 ## General List
 * [Awesome List](https://github.com/sindresorhus/awesome) - *A curated list of awesome lists* 😎
