@@ -14,3 +14,6 @@
 ## Technical Interview 😎
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - *Algorithms study materials, behavioral content and tips for rocking your coding interview* 💯
 * [Andrei's Repo](https://github.com/andreis/interview) - *Containing a list of more technical interview repos*
+
+## Resume
+* [Awesome CV](https://github.com/posquit0/Awesome-CV) - *LaTeX template for your outstanding job application* 📄
