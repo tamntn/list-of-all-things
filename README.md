@@ -10,6 +10,7 @@
    <br>
    <a href="#resume">Resume</a>
    <br>
+   <a href="#design">Design</a>
 </div>
 
 ## Legend
@@ -20,6 +21,7 @@
 ## General List
 * [Awesome List](https://github.com/sindresorhus/awesome) - *A curated list of awesome lists* 😎
 * [Checklist](https://github.com/huyingjie/Checklist-Checklist) - *A curated list of checklists* ✓
+* [TodoMVC](https://github.com/tastejs/todomvc) - *A collection of todo app built by different MV\* frameworks*
 
 ## Cheatsheet
 ### Web Dev
