@@ -22,11 +22,14 @@
 * [Checklist](https://github.com/huyingjie/Checklist-Checklist) - *A curated list of checklists* ✓
 
 ## Cheatsheet
+### Web Dev
 * [Azat Mardan's](https://github.com/azat-co/cheatsheets) - *Cheatsheets for ES6, Express, MongoDB/Mongoose, Node & React by Azat Mardan, founder of node.university. He has more materials regarding the learning of NodeJS such as [You don't know Node](https://github.com/azat-co/you-dont-know-node), [Practical NodeJS](https://github.com/azat-co/practicalnode) and [Node Frameworks](http://nodeframework.com)*
     * [ES6 1](cheatsheet/es6-1-azat.png) + [ES6 2](cheatsheet/es6-1-azat.png)
     * [Express](cheatsheet/express-azat.pdf)
 * [The Best Front-End Hacking Cheatsheets - All in One Place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a) - 𝐌
-* [Python Crash Course Master Cheatsheet](cheatsheet/python-crash-course-all.png) - *Python basics, lists, dictionaries, control statements, functions, classes, Django and more...* 😵
+### Python
+* [Python Crash Course Master Cheatsheet](cheatsheet/python-crash-course-all.pdf) - *Python basics, Django and more...* 😵
+* [Pysheeet](https://github.com/crazyguitar/pysheeet) - *Python code pieces that make life easier*
 
 ## Technical Interview 😎
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - *Algorithms study materials, behavioral content and tips for rocking your coding interview* 💯
