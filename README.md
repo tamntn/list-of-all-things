@@ -21,15 +21,16 @@
 ## General List
 * [Awesome List](https://github.com/sindresorhus/awesome) - *A curated list of awesome lists* 😎
 * [Checklist](https://github.com/huyingjie/Checklist-Checklist) - *A curated list of checklists* ✓
-* [TodoMVC](https://github.com/tastejs/todomvc) - *A collection of todo app built by different MV\* frameworks*
+* [TodoMVC](https://github.com/tastejs/todomvc) - *A collection of todo apps built by different MV\* frameworks*
 
 ## Cheatsheet
-### Web Dev
+* [OverAPI](http://overapi.com) - *Collecting all the cheat sheets*
+#### Web Dev
 * [Azat Mardan's](https://github.com/azat-co/cheatsheets) - *Cheatsheets for ES6, Express, MongoDB/Mongoose, Node & React by Azat Mardan, founder of node.university. He has more materials regarding the learning of NodeJS such as [You don't know Node](https://github.com/azat-co/you-dont-know-node), [Practical NodeJS](https://github.com/azat-co/practicalnode) and [Node Frameworks](http://nodeframework.com)*
     * [ES6 1](cheatsheet/es6-1-azat.png) + [ES6 2](cheatsheet/es6-1-azat.png)
     * [Express](cheatsheet/express-azat.pdf)
 * [The Best Front-End Hacking Cheatsheets - All in One Place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a) - 𝐌
-### Python
+#### Python
 * [Python Crash Course Master Cheatsheet](cheatsheet/python-crash-course-all.pdf) - *Python basics, Django and more...* 😵
 * [Pysheeet](https://github.com/crazyguitar/pysheeet) - *Python code pieces that make life easier*
 
@@ -42,3 +43,7 @@
 
 ## Design 😎
 * [Awesome Web Design](https://github.com/nicolesaidy/awesome-web-design) - *A curated list of awesome resources for digital designers* 🎨
+#### Library/Template
+* [Bootstrap Material Design](https://fezvrasta.github.io/bootstrap-material-design/) - *Bootstrap 4 Material Design library*
+* [Creative Tim](https://www.creative-tim.com) - *Templates, themes, UI kits*
+* [HTML5UP!](https://html5up.net) - *Responsive HTML5 and CSS3 Templates*
