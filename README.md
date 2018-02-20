@@ -30,6 +30,7 @@
     * [ES6 1](cheatsheet/es6-1-azat.png) + [ES6 2](cheatsheet/es6-1-azat.png)
     * [Express](cheatsheet/express-azat.pdf)
 * [The Best Front-End Hacking Cheatsheets - All in One Place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a) - 𝐌
+* [Reactcheatsheet.com](https://reactcheatsheet.com)
 #### Python
 * [Python Crash Course Master Cheatsheet](cheatsheet/python-crash-course-all.pdf) - *Python basics, Django and more...* 😵
 * [Pysheeet](https://github.com/crazyguitar/pysheeet) - *Python code pieces that make life easier*
@@ -37,6 +38,7 @@
 ## Technical Interview 😎
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - *Algorithms study materials, behavioral content and tips for rocking your coding interview* 💯
 * [Andrei's Repo](https://github.com/andreis/interview) - *Containing a list of more technical interview repos*
+* [Patrick Shyu's 10 Tips](https://www.youtube.com/watch?v=B7WMjMZHyq0) - *Youtube Video By Google's Tech Lead Patrick Shyu*
 
 ## Resume
 * [Awesome CV](https://github.com/posquit0/Awesome-CV) - *LaTeX template for your outstanding job application* 📄
