@@ -37,6 +37,8 @@
 
 ## Technical Interview 😎
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - *Algorithms study materials, behavioral content and tips for rocking your coding interview* 💯
+* [Front-end Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) - *HTML, CSS and JS interview questions and answers*
+* [Back-end Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions#nosql)
 * [Andrei's Repo](https://github.com/andreis/interview) - *Containing a list of more technical interview repos*
 * [Patrick Shyu's 10 Tips](https://www.youtube.com/watch?v=B7WMjMZHyq0) - *Youtube Video By Google's Tech Lead Patrick Shyu*
 
