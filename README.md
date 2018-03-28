@@ -22,6 +22,7 @@
 * [Awesome List](https://github.com/sindresorhus/awesome) - *A curated list of awesome lists* 😎
 * [Checklist](https://github.com/huyingjie/Checklist-Checklist) - *A curated list of checklists* ✓
 * [TodoMVC](https://github.com/tastejs/todomvc) - *A collection of todo apps built by different MV\* frameworks*
+* [Free For Dev](https://github.com/ripienaar/free-for-dev) - *Everything free for developers*
 
 ## Cheatsheet
 * [OverAPI](http://overapi.com) - *Collecting all the cheat sheets*
