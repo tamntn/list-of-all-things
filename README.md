@@ -23,6 +23,7 @@
 * [Checklist](https://github.com/huyingjie/Checklist-Checklist) - *A curated list of checklists* ✓
 * [TodoMVC](https://github.com/tastejs/todomvc) - *A collection of todo apps built by different MV\* frameworks*
 * [Free For Dev](https://github.com/ripienaar/free-for-dev) - *Everything free for developers*
+* [Front End Handbook 2018](https://github.com/FrontendMasters/front-end-handbook-2018) - *Front end handbook 2018*
 
 ## Cheatsheet
 * [OverAPI](http://overapi.com) - *Collecting all the cheat sheets*
