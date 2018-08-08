@@ -37,6 +37,11 @@
 * [Python Crash Course Master Cheatsheet](cheatsheet/python-crash-course-all.pdf) - *Python basics, Django and more...* 😵
 * [Pysheeet](https://github.com/crazyguitar/pysheeet) - *Python code pieces that make life easier*
 
+## Software Engineering Principles
+### S.O.L.I.D
+* [Codemag](https://www.codemag.com/article/1001061) - *S.O.L.I.D. Software Development, One Step at a Time*
+* [Stackify](https://stackify.com/dependency-inversion-principle/) - *SOLID Design Principles Explained – Dependency Inversion Principle with Code Examples*
+
 ## Technical Interview 😎
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - *Algorithms study materials, behavioral content and tips for rocking your coding interview* 💯
 * [Front-end Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) - *HTML, CSS and JS interview questions and answers*
