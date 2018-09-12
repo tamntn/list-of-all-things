@@ -37,6 +37,11 @@
 * [Python Crash Course Master Cheatsheet](cheatsheet/python-crash-course-all.pdf) - *Python basics, Django and more...* 😵
 * [Pysheeet](https://github.com/crazyguitar/pysheeet) - *Python code pieces that make life easier*
 
+## Git/GitHub
+* [How to Use Git Efficiently](https://medium.freecodecamp.org/how-to-use-git-efficiently-54320a236369)
+* [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+* [Trunkbase Development](https://trunkbaseddevelopment.com)
+
 ## Software Engineering Principles
 #### S.O.L.I.D
 * [Codemag](https://www.codemag.com/article/1001061) - *S.O.L.I.D. Software Development, One Step at a Time*
