@@ -40,3 +40,33 @@
 
 ## Design 😎
 * [Awesome Web Design](https://github.com/nicolesaidy/awesome-web-design) - *A curated list of awesome resources for digital designers* 🎨
+
+## General UI/UX
+* [Bootstrap](https://getbootstrap.com)
+* [Tailwind CSS](https://github.com/tailwindcss/tailwindcss)
+
+## React UI/UX
+### Frameworks
+* [Ant Design](https://ant.design)
+* [Atlaskit](https://atlaskit.atlassian.com) - *Atlassian's official UI library*
+* [Gestalt](https://github.com/pinterest/gestalt) - *Pinterest UI components library*
+### Libraries
+* [Pose](https://popmotion.io/pose/) - *Simple animation library*
+* [react-spring](http://react-spring.surge.sh) - *Young but highly recommended React animation library*
+* [react-motion](https://github.com/chenglou/react-motion)
+* [react-animation-group](https://github.com/reactjs/react-transition-group/tree/v1-stable) - *An easy way to perform animations when a React component enters or leaves the DOM*
+* [react-animations](https://github.com/FormidableLabs/react-animations)
+* [Google's material animation](https://material.io/develop/web/components/animation/)
+
+## Material Design
+### Web
+* [Materialize CSS](https://materializecss.com/getting-started.html)
+* [Calendar Components](https://reactjsexample.com/tag/calendar/)
+* [Scheduluer Components](https://reactjsexample.com/a-scheduler-and-resource-planning-component-built-for-react/)
+* [Chart Component](https://reactjsexample.com/tag/chart/)
+* 
+
+### Mobile
+### Articles
+* [Example FAB Design and Use Case - Mock Plus](https://www.mockplus.com/blog/post/floating-action-button)
+* 
