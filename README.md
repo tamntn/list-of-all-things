@@ -13,10 +13,12 @@
    <a href="#design">Design</a>
 </div>
 
+
 ## Legend
 * 😎 - [Awesome List](https://github.com/sindresorhus/awesome) has an item regarding this topic
 * 🔥 - Personal favorite
 * 𝐌 - Medium article
+
 
 ## General List
 * [Awesome List](https://github.com/sindresorhus/awesome) - *A curated list of awesome lists* 😎
@@ -24,6 +26,7 @@
 * [TodoMVC](https://github.com/tastejs/todomvc) - *A collection of todo apps built by different MV\* frameworks*
 * [Free For Dev](https://github.com/ripienaar/free-for-dev) - *Everything free for developers*
 * [Front End Handbook 2018](https://github.com/FrontendMasters/front-end-handbook-2018) - *Front end handbook 2018*
+
 
 ## Cheatsheet
 * [OverAPI](http://overapi.com) - *Collecting all the cheat sheets*
@@ -34,10 +37,10 @@
     * [Express](cheatsheet/express-azat.pdf)
 * [The Best Front-End Hacking Cheatsheets - All in One Place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a) - 𝐌
 * [Reactcheatsheet.com](https://reactcheatsheet.com)
+* [Moment.js](https://devhints.io/moment)
 #### Python
 * [Python Crash Course Master Cheatsheet](cheatsheet/python-crash-course-all.pdf) - *Python basics, Django and more...* 😵
 * [Pysheeet](https://github.com/crazyguitar/pysheeet) - *Python code pieces that make life easier*
-* [Moment.js](https://devhints.io/moment)
 #### VIM
 * [CMU Vim Cheatsheet](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf)
 * [Rtorr](https://vim.rtorr.com)
@@ -48,10 +51,12 @@
 * [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * [Trunkbase Development](https://trunkbaseddevelopment.com)
 
+
 ## Software Engineering Principles
 #### S.O.L.I.D
 * [Codemag](https://www.codemag.com/article/1001061) - *S.O.L.I.D. Software Development, One Step at a Time*
 * [Stackify](https://stackify.com/dependency-inversion-principle/) - *SOLID Design Principles Explained – Dependency Inversion Principle with Code Examples*
+
 
 ## Technical Interview 😎
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - *Algorithms study materials, behavioral content and tips for rocking your coding interview* 💯
@@ -61,19 +66,24 @@
 * [Patrick Shyu's 10 Tips](https://www.youtube.com/watch?v=B7WMjMZHyq0) - *Youtube Video By Google's Tech Lead Patrick Shyu*
 * [interviewing.io](https://interviewing.io) - *Free & anonymous technical interview practice*
 
+
 ## Resume
 * [Awesome CV](https://github.com/posquit0/Awesome-CV) - *LaTeX template for your outstanding job application* 📄
 
+
 ## Design 😎
 * [Awesome Web Design](https://github.com/nicolesaidy/awesome-web-design) - *A curated list of awesome resources for digital designers* 🎨
+
 
 ## Cool Libraries
 * [anime.js](https://animejs.com) - *Lightweight JS animation library*
 * [Clarifai](https://clarifai.com/models/color-image-recognition-model-eeed0b6733a644cea07cf4c60f87ebb7) - *Return dominant color in an image*
 
+
 ## General UI/UX
 * [Bootstrap](https://getbootstrap.com)
 * [Tailwind CSS](https://github.com/tailwindcss/tailwindcss)
+
 
 ## React UI/UX
 #### Frameworks
@@ -88,6 +98,7 @@
 * [react-animations](https://github.com/FormidableLabs/react-animations)
 * [Google's material animation](https://material.io/develop/web/components/animation/)
 
+
 ## Redux vs. Context API
 * [When Context replaces Redux](https://frontarm.com/james-k-nelson/when-context-replaces-redux/)
 * [Redux vs React Context API](https://daveceddia.com/context-api-vs-redux/)
@@ -95,6 +106,7 @@
 * [Replacing Redux with the new React context API](https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)
 * [Choosing between Redux and React’s Context API](https://blog.usejournal.com/choosing-between-redux-and-reacts-context-api-272ca20224b2)
 * [When to use Redux vs Context](https://stackoverflow.com/questions/49568073/react-context-vs-react-redux-when-should-i-use-each-one)
+
 
 ## Material Design
 #### Web
