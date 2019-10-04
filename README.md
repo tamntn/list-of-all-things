@@ -83,7 +83,7 @@
 ## General UI/UX
 * [Bootstrap](https://getbootstrap.com)
 * [Tailwind CSS](https://github.com/tailwindcss/tailwindcss)
-
+* [Bulma](https://bulma.io/)
 
 ## React UI/UX
 #### Frameworks
